@@ -1,2 +1,2 @@
 # TheOdinProject
-This repo contains my solutions and projects from The Odin Project, a free curriculum for learning web development. It includes assignments and challenges in HTML, CSS, JavaScript, and more.
+This repository contains my solutions and projects completed as part of The Odin Project curriculum. The Odin Project is a free, open-source platform that provides a comprehensive path for learning web development, including HTML, CSS, JavaScript, and backend technologies. Here, you’ll find my work on various assignments, projects, and challenges designed to build and showcase my skills in full-stack development.
